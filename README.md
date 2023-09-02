@@ -13,4 +13,4 @@ This repository houses a sleek and responsive signup form designed to enhance us
 
 🌐 **[Live Demo](https://moumin-pk.github.io/Responsive-Animated-Signup-Form/)** 🌐
 
-Thank you for using our signup form! We hope it adds value to your project. 😊🚀
+Thank you for using our signup form! We hope it adds value to your project. 😊🚀 
