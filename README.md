@@ -12,5 +12,6 @@ This repository houses a sleek and responsive signup form designed to enhance us
 - 🌐 Responsive design for various screen sizes.
 
 🌐 **[Live Demo](https://moumin-pk.github.io/Responsive-Animated-Signup-Form/)** 🌐
+Explore the live demo of this signup form
 
 Thank you for using our signup form! We hope it adds value to your project. 😊🚀 
