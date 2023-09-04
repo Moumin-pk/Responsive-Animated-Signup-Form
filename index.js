@@ -1,3 +1,13 @@
+// CAPSLOCK 
+window.addEventListener('keyup',event =>{
+var caps = event.getModifierState('CapsLock');
+if(caps){
+    document.getElementById('alert').innerHTML='WARNING! Capslock on';
+}else{
+    document.getElementById('alert').innerHTML='WARNING! Capslock off';
+}
+})
+
 var pass = document.getElementById('pass');
 var flag =1; // 1 -> no error | 0 -> error 
 function check(elem){
