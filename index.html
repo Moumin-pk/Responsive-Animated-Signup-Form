@@ -13,12 +13,12 @@
             <h2>SIGNUP</h2>
             <div class="input-box">
                 <span class="icon"><ion-icon name="mail-outline"></ion-icon></span>
-                <input type="email"  name="email"required="">
+                <input type="email"  name="email"required="" onkeyup="white(this.value)">
                 <label for="email">email</label>
             </div>
             <div class="input-box">
                 <span class="icon"><ion-icon name="lock-closed-outline"></ion-icon></span>
-                <input type="password"  id="pass" required="">
+                <input type="password"  id="pass" required="" autocomplete="off" onkeyup="passCheck(this.value)">
                 <label for="">password</label>
             </div>
             <div class="input-box">
@@ -29,6 +29,13 @@
             <div class="error">
                 <p id="alert"></p>
             </div>
+            <p>
+                <label class="password-check">8 character</label>
+                <label class="password-check">1 lower case character</label>
+                <label class="password-check">1 upper case character </label>
+                <label class="password-check">1 numerical character</label>
+                <label  class="password-check">1 specia character</label>
+            </p>
             <div class="remember-forgot">
                 <label for="">
                     <input type="checkbox">
