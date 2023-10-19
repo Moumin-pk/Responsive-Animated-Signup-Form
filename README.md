@@ -10,6 +10,9 @@ This repository houses a sleek and responsive signup form designed to enhance us
 - 🧠 Remember me functionality.
 - 🔗 Register link for new users.
 - 🌐 Responsive design for various screen sizes.
+## ScreenShot:
+  ![Screenshot 2023-10-19 225047](https://github.com/Moumin-pk/Responsive-Animated-Signup-Form/assets/116239910/deef76b5-14cf-49cb-9054-770fb5b9d046)
+
 
 🌐 **[Live Demo](https://moumin-pk.github.io/Responsive-Animated-Signup-Form/)** 🌐
 Explore the live demo of this signup form
